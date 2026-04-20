@@ -1,7 +1,4 @@
 # LaUsaTa
-
-> Nota: acest repository este un mirror demonstrativ al proiectului. Nu trebuie folosit ca dovada a cronologiei reale de dezvoltare sau a volumului real de lucru.
-
 LaUsaTa este o platforma comunitara functionala construita cu Django 5 si DRF. Aplicatia actuala include pagini publice, conturi pe roluri, cereri de ajutor, aplicatii de voluntariat, bookings, chat, notificari, review-uri, moderare si administrare.
 
 ## Ce functioneaza in proiect
@@ -42,10 +39,6 @@ LaUsaTa este o platforma comunitara functionala construita cu Django 5 si DRF. A
 - Baza de date implicita: SQLite
 - Baza de date alternativa: PostgreSQL prin `DATABASE_URL`
 - Limba implicita: romana
-
-## Documentatie UI
-
-- Ghidul de tokens, componente si shell UI este in `docs/UI.md`
 
 ## Fluxuri principale
 
